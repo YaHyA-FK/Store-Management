@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/backgrounds">
+        <file>images/background 1.png</file>
+        <file>images/c910baac369a030bf09548ab196e96e6.png</file>
+        <file>images/bch2.png</file>
+        <file>images/bck.png</file>
+        <file>images/main.png</file>
+        <file>images/225-2254349_tasks-list-on-clipboard-action-item-icon-png.png</file>
+        <file>images/1678687-200.png</file>
+        <file>images/4245242-200.png</file>
+        <file>images/add-item-icon-vector-16301642.png</file>
+        <file>images/lkeskinen181200151.png</file>
+        <file>images/sold-vector-icon.png</file>
+    </qresource>
+</RCC>
